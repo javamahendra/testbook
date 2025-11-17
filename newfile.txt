@@ -1,0 +1,9 @@
+my second line
+
+git log --oneline
+
+git log
+
+git branch -a
+
+git checkout <branch-name>
